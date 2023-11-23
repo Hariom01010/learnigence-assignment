@@ -6,7 +6,7 @@ import { MdEqualizer } from "react-icons/md";
 import Profile from "../../assets/young-man-profile.png"
 import { Badge } from '@mui/material';
 import { RiBarChartHorizontalLine } from "react-icons/ri";
-import siteLogo from "../../assets/siteLogo.png"
+import siteLogo from "../../assets/sitelogo.png"
 import PeopleAltIcon from '@mui/icons-material/PeopleAlt';
 
 function Sidebar({srcImg}) {
